@@ -54,6 +54,8 @@ header {
   font-size: 14px;
   width: 100%;
   padding: 10px;
+
+  outline: none;
 }
 
 .form-control i {
