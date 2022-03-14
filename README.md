@@ -17,4 +17,4 @@ São projetos no qual aprendi muita coisa sobre funcionalidades da linguagem.
 
 #### Validações de formulário.
 - Validações de email, senha e usuário.
-- Utilizei REGEX nessa validação e aprendi como
+- Utilizei REGEX nessa validação.
